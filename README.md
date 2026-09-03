@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Sanjev Kumar Sahani
 - 👀I’m interested in Full Time Job In Fullstack Web Development
-- 🌱 I’m currently working at Entiovi Technologies Private Limited as React Developer
+- 🌱 I’m currently working at FIGmd( MRO India) as Software analyst.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mobile no-8054334427,email-sanjeevkumarsahani123@gmail.com
 
